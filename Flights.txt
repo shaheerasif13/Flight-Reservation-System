@@ -1,0 +1,112 @@
+AF1381
+London
+Paris
+25/10/2020
+4:25:12
+1
+20
+Air France
+Airbus A-321-100/100
+Economy
+100.0
+20
+9
+
+AF1382
+London
+Paris
+25/10/2020
+4:25:12
+1
+20
+Air France
+Airbus B-321-200/200
+Economy
+110.0
+30
+1
+
+AF1383
+London
+Paris
+25/10/2020
+4:25:12
+1
+20
+Air France
+Airbus C-321-300/300
+Economy
+120.0
+40
+2
+
+BF1381
+London
+Paris
+26/10/2020
+4:25:12
+1
+20
+Air France
+Airbus A-321-100/100
+Economy
+100.0
+50
+0
+
+BF1382
+London
+Paris
+26/10/2020
+4:25:12
+1
+20
+Air France
+Airbus B-321-200/200
+Economy
+110.0
+60
+0
+
+CF1381
+Lahore
+Karachi
+25/10/2020
+4:25:12
+1
+20
+Air France
+Airbus A-321-100/100
+Economy
+50.0
+70
+0
+
+CF1382
+Lahore
+Karachi
+25/10/2020
+4:25:12
+1
+20
+Air France
+Airbus B-321-200/200
+Economy
+55.0
+80
+0
+
+CF1382
+Lahore
+Karachi
+25/10/2020
+4:25:12
+1
+20
+Air France
+Airbus B-321-200/200
+Economy
+55.0
+80
+1
+
